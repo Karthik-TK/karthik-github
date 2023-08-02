@@ -36,19 +36,14 @@ I've brewed potions that power web apps catering to 600,000+ customers! 🚀
     src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
     alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <!-- 
-<a href="https://gitlab.com/karthiktk" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
---></div>
-<br />
+</div>
 
-
----
-
+<!--
 ### 📊 GitHub Stats:
-
+-->
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Karthik-TK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-TK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
+---
 [![](https://visitcount.itsvg.in/api?id=Karthik-TK&icon=0&color=1)](https://visitcount.itsvg.in)
