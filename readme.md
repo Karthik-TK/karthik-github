@@ -34,5 +34,11 @@ I've brewed potions that power web apps catering to 600,000+ customers! 🚀
 </div>
 <br />
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Karthik-TK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-TK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Karthik-TK&icon=0&color=1)](https://visitcount.itsvg.in)
+ 
+---
 🚀 Join me on my coding adventures as we conquer the digital realm! 🚀
