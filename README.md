@@ -20,4 +20,4 @@ I've brewed potions that power web apps catering to over 10 million customers! ð
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Karthik-TK&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Karthik-TK&abbreviated=true)
